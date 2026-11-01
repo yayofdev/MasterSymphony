@@ -1,0 +1,29 @@
+.redes-sociales {
+    /* background-color: beige; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    font-size: 30px;
+    color: #0D2C5B;
+}
+
+.padre-btns {
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+}
+
+.btns-redes-sociales {
+    border-radius: 50%;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    transition: transform 0.2s ease;
+    padding: 0;
+}
+
+.btns-redes-sociales:hover {
+    transform: scale(1.07);
+    box-shadow: none;
+    background: none;
+}

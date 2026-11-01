@@ -1,0 +1,10 @@
+p {
+    text-align: justify;
+    font-size: 150%;
+    line-height: 1.9;
+}
+
+#padre-quienes-somos {
+    padding-left: 20%;
+    padding-right: 20%;
+}
